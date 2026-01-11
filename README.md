@@ -6,4 +6,4 @@ A voxel/pixel based fluid solver capable of simulating fluid flow around non-tri
 
 2D-WindTunnel-Sim1.gif -- "Wind Tunnel" simulation demonstrating fluid flow around a box
 
-2D-WindTunnel-Sim2.gif -- "Wind Tunnel" simulation demonstrating fluid flow around a ball positioned away vertical center of the tunnel
+2D-WindTunnel-Sim2.gif -- "Wind Tunnel" simulation demonstrating fluid flow around a ball positioned away from the center-line (y=0) of the tunnel
